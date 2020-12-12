@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source $HOME/.venv/stealthmachine/smc_py3/bin/activate
+#cd $HOME/stealthmachine/server

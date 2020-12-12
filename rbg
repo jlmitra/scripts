@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+INTERVAL=1200
+
+while true
+do
+    /usr/bin/feh --randomize --bg-fill ~/img/wp/*
+    sleep $INTERVAL
+done
